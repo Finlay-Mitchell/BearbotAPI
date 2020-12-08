@@ -1,0 +1,2 @@
+D:\Utils\C++\MySQLAPI\x64\Debug\MySQLAPI.dll
+D:\Utils\C++\MySQLAPI\x64\Debug\MySQLAPI.pdb
